@@ -55,7 +55,7 @@ This project provides a Python-based calculator for Fick's First Law of Diffusio
 1. Open a terminal and navigate to the project folder.
 2. Run:
    ```
-   python "Flick's Law Calculators/1st Law/Flick's 1st-Law_calculator_gui.py"
+   python "Flick's Law Calculators/1st Law/Flick's 1st-Law_calculator_gui.pyw"
    ```
 3. The GUI window will appear. Select the variable to solve for, enter the required values, and click **Calculate**.
 
@@ -70,5 +70,6 @@ This project provides a Python-based calculator for Fick's First Law of Diffusio
 This project is provided for educational and research purposes.
 
 ---
+
 
 **Feel free to modify and expand the calculator for your needs!**
