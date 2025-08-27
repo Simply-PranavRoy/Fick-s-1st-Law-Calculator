@@ -27,7 +27,7 @@ This project provides a Python-based calculator for Fick's First Law of Diffusio
   - Logs calculations with date and time in `ficks_1st_law_log.txt`
   - Supports unit conversions
 
-- **GUI calculator** (`Flick's 1st-Law_calculator_gui.py`)
+- **GUI calculator** (`Flick's 1st-Law_calculator_gui.pyw`)
   - Simple, polished interface using Tkinter
   - Select which variable to solve for
   - Only relevant input fields are shown
@@ -73,3 +73,4 @@ This project is provided for educational and research purposes.
 
 
 **Feel free to modify and expand the calculator for your needs!**
+
