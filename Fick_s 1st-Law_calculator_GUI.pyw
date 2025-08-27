@@ -7,8 +7,6 @@ import os
 os.environ['TK_SILENCE_DEPRECATION'] = '1'  # Suppress Tkinter deprecation warning
 import tkinter as tk
 from tkinter import ttk, messagebox
-import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from io import BytesIO
 from PIL import Image, ImageTk
 
@@ -347,3 +345,4 @@ show_fields()
 root.mainloop()
 
 # To run without the black terminal window, save this file as .pyw and run it.
+
