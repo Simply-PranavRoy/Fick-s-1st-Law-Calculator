@@ -1,4 +1,3 @@
-
 import os
 import logging
 from datetime import datetime
@@ -203,6 +202,7 @@ def ficks_first_law():
         again = input("\nWould you like to use the calculator again? (y/n): ").strip().lower()
         if again != 'y':
             print("Thank you for using the calculator!")
+            input("Press Enter to exit...")
             break
 
 if __name__ == "__main__":
